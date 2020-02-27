@@ -3,8 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
-  color: #354b59;
+  background: #bffa84;
+  color: #27c463;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -403,7 +403,7 @@ hr {
     z-index: 10;
     font-family: 'Source Code Pro', Courier;
     font-size: 16px; 
-    color: #354b59;}
+    color: #27c463;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/presidents/2.png');
     background-size: 100%;
